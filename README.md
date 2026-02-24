@@ -64,3 +64,9 @@ Run the application on a connected device or emulator using:
 ```bash
 flutter run
 ```
+
+## Copyright & License
+
+Copyright (c) 2026. All rights reserved.
+
+This project is submitted solely for the purpose of a challenge evaluation. No license is granted to use, modify, reproduce, distribute, or create derivative works from this code beyond the evaluation process. See the [LICENSE](LICENSE) file for details.
