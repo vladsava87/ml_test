@@ -1,0 +1,1 @@
+enum EFaceDetectorProfie { fast, accurate }

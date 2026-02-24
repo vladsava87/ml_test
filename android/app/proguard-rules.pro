@@ -1,0 +1,4 @@
+-keep class net.sqlcipher.** { *; }
+-keep class org.opencv.** { *; }
+-keep class com.google.mlkit.** { *; }
+-dontwarn com.google.mlkit.vision.text.**
