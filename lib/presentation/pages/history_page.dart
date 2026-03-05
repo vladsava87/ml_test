@@ -1,4 +1,4 @@
-import 'package:ml_test/infrastructure/business/controllers/history_controller.dart';
+import 'package:ml_test/presentation/controllers/history_controller.dart';
 import 'package:ml_test/presentation/widgets/image_viewer.dart';
 import 'package:ml_test/presentation/widgets/metadata_panel.dart';
 import 'package:flutter/material.dart';

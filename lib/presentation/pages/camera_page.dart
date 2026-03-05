@@ -1,8 +1,8 @@
 import 'package:camera/camera.dart' as camera;
-import 'package:ml_test/infrastructure/business/controllers/camera_controller.dart';
+import 'package:ml_test/presentation/controllers/camera_controller.dart';
 import 'package:ml_test/infrastructure/constants/app_navigation_args.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
-import 'package:ml_test/infrastructure/router.dart';
+import 'package:ml_test/presentation/router.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

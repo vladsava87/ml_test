@@ -1,8 +1,8 @@
 import 'package:ml_test/domain/enums/e_image_type.dart';
-import 'package:ml_test/infrastructure/business/controllers/home_controller.dart';
+import 'package:ml_test/presentation/controllers/home_controller.dart';
 import 'package:ml_test/infrastructure/constants/app_navigation_args.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
-import 'package:ml_test/infrastructure/router.dart';
+import 'package:ml_test/presentation/router.dart';
 import 'package:ml_test/domain/interfaces/services/i_app_permissions_service.dart';
 import 'package:ml_test/presentation/widgets/paginated_list_view.dart';
 import 'package:ml_test/presentation/widgets/thumbnail_image.dart';

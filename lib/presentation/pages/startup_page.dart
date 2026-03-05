@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
 import 'package:ml_test/domain/interfaces/data/i_db_provider.dart';
-import 'package:ml_test/infrastructure/router.dart';
+import 'package:ml_test/presentation/router.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

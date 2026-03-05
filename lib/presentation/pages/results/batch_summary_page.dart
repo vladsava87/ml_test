@@ -1,4 +1,4 @@
-import 'package:ml_test/infrastructure/business/controllers/results/batch_summary_controller.dart';
+import 'package:ml_test/presentation/controllers/results/batch_summary_controller.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
 import 'package:ml_test/presentation/widgets/batch_result_card.dart';
 import 'package:flutter/material.dart';

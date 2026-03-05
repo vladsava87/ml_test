@@ -3,7 +3,7 @@ import 'package:ml_test/domain/enums/e_batch_item_status.dart';
 import 'package:ml_test/domain/enums/e_image_type.dart';
 import 'package:ml_test/infrastructure/constants/app_navigation_args.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
-import 'package:ml_test/infrastructure/router.dart';
+import 'package:ml_test/presentation/router.dart';
 import 'package:ml_test/presentation/constants/icon_constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';

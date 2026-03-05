@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
-import 'package:ml_test/infrastructure/router.dart';
+import 'package:ml_test/presentation/router.dart';
 import 'package:ml_test/infrastructure/services/app_translations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

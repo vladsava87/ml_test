@@ -1,4 +1,4 @@
-import 'package:ml_test/infrastructure/business/controllers/results/document_result_controller.dart';
+import 'package:ml_test/presentation/controllers/results/document_result_controller.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
 import 'package:ml_test/presentation/widgets/highlighted_text.dart';
 import 'package:flutter/material.dart';

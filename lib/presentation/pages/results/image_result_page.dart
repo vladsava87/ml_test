@@ -1,5 +1,5 @@
 import 'package:before_after/before_after.dart';
-import 'package:ml_test/infrastructure/business/controllers/results/image_result_controller.dart';
+import 'package:ml_test/presentation/controllers/results/image_result_controller.dart';
 import 'package:ml_test/infrastructure/constants/app_strings.dart';
 import 'package:ml_test/presentation/widgets/image_card.dart';
 import 'package:flutter/material.dart';
