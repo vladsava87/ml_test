@@ -53,12 +53,10 @@ class ProcessedFileRepository implements IProcessedFileRepository {
     String parsePath(String savedPath) {
       if (savedPath.isEmpty) return savedPath;
 
-      // Rebuild the path to bypass iOS Sandbox UUID changes
       if (savedPath.contains('/Documents/')) {
         return '$currentDocsPath/${savedPath.split('/Documents/').last}';
       }
-
-      // For legacy files saved in iOS /tmp/ or /Library/Caches/ before the persistence fix
+]
       if (currentDocsPath.endsWith('/Documents')) {
         final sandboxRoot = currentDocsPath.substring(
           0,
